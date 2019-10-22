@@ -25,5 +25,9 @@
   // workbench
   "workbench.settings.useSplitJSON": true, // デフォルトで2ペイン
   // terminal
-  "terminal.integrated.fontSize": 20, // フォントサイズ
+  "terminal.integrated.fontSize": 12,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Github", // フォントサイズ
 }
